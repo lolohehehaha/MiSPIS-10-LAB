@@ -1,12 +1,13 @@
 Диаграмма классов  
-<img width="974" height="761" alt="image" src="https://github.com/user-attachments/assets/bc264b85-4794-42c5-b132-bde6c55b6ace" />
+<img width="1747" height="1865" alt="image" src="https://github.com/user-attachments/assets/866c5191-d024-4c9b-81f0-f5493b0bc9aa" />
 
 Диаграмма последовательности
-<img width="974" height="766" alt="image" src="https://github.com/user-attachments/assets/153dafe7-480a-43ae-949c-8f356b8efcd2" />
+<img width="1500" height="765" alt="image" src="https://github.com/user-attachments/assets/8ccd6fdc-8e9f-4896-a35d-1b4d50c6b6d1" />
  
 Диаграмма Активностей
-<img width="974" height="598" alt="image" src="https://github.com/user-attachments/assets/0f0daf5c-38c1-4e83-a088-330c82a1b3e2" />
+<img width="790" height="1189" alt="image" src="https://github.com/user-attachments/assets/2152e4c7-c91f-4326-a2d1-a7670e370c9c" />
  
-Use-case diagram
-<img width="974" height="441" alt="image" src="https://github.com/user-attachments/assets/e8b6d597-4c3c-4774-a009-8d687022e7d4" />
+Use-case диаграмма
+<img width="1698" height="881" alt="image" src="https://github.com/user-attachments/assets/bf7bab81-354e-41ae-be6f-35668d31181a" />
+
 
