@@ -42,8 +42,7 @@ public class Faculty {
 		throw new UnsupportedOperationException();
 	}
 
-	/**
-	 * 
+	/** 
 	 * @param name
 	 */
 	public Faculty(String name) {
