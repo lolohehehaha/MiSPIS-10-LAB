@@ -8,6 +8,7 @@
 <img width="790" height="1189" alt="image" src="https://github.com/user-attachments/assets/2152e4c7-c91f-4326-a2d1-a7670e370c9c" />
  
 Use-case диаграмма
-<img width="1698" height="881" alt="image" src="https://github.com/user-attachments/assets/bf7bab81-354e-41ae-be6f-35668d31181a" />
+<img width="424" height="662" alt="image" src="https://github.com/user-attachments/assets/7e2b93c6-762c-48de-bdd4-42fdea0c8cb1" />
+
 
 
